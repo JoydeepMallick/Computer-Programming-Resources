@@ -1,0 +1,3 @@
+https://gustedt.wordpress.com/2018/08/06/c17-obsoletes-atomic_var_init/
+
+read it!!!
